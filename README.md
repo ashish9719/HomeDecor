@@ -10,7 +10,7 @@ Enable the „Install From Unknown Source‟s option. If already checked ignore 
 
 
 
-8.2 USER MANUAL
+2 USER MANUAL
 -The application is built in user friendly manner which eliminates the language barrier.
 -When application is opened, it automatically scans the surface and hence avoids confusion where to start.
 -The user just have to select the furniture he wants through the catalogue and just have to tap where he wants to place it.
