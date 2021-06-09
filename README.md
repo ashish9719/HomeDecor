@@ -1,5 +1,13 @@
 # HomeDecor Using Augmented Reality
 
+<img src="images/1.jpeg" height ="300px">
+
+<img src="images/2.jpeg" height ="300px">
+
+Demo
+<br>
+<img src="images/g.gif" height ="300px">
+<br>
 1 INSTALLATION GUIDE
 
 There are no extra hurdles are added and it is made sure that this process is made as smooth as possible.
